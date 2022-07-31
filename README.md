@@ -1,16 +1,12 @@
 # cubit_app
 
-A new Flutter project.
+A new Travel UI Project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project is a Travel Ui Build on Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![1](https://user-images.githubusercontent.com/54034862/182035075-5e5f252d-0ed3-4fda-a12c-219fbb3f12f9.png)
+![2](https://user-images.githubusercontent.com/54034862/182035084-1fc337a3-8fa6-4791-a572-5786d98029fc.png)
